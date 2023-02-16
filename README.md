@@ -25,7 +25,7 @@ Then you would simply add a new 'volvo' - 'XC50' without having all the specific
 ### Why is 'Manufacturer och 'Model' not in the same table?  
 
 The reason is that you can add new models without having to see 'manufacturer_name' repeatedly, removing
-redudancy.  
+redundancy.  
 Example of what I would like to avoid:
 
 ![carsales-db-example1](https://user-images.githubusercontent.com/56250367/219065990-f85d1113-afda-4db6-8b56-f85d02b705a4.png)
